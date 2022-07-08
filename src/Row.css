@@ -1,5 +1,6 @@
 .row {
   margin-left: 20px;
+  color: white;
 }
 
 .row__posters {
@@ -18,7 +19,7 @@
   object-fit: contain;
   max-height: 100px;
   margin-right: 10px;
-  transition: transform 450ms;
+  transition: transform 250ms;
 }
 
 .row__poster:hover {

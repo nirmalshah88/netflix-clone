@@ -1,0 +1,11 @@
+.loadingScreen__container {
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loadingScreen__image {
+  width: 100%;
+  object-fit: contain;
+}

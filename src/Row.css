@@ -19,7 +19,7 @@
   object-fit: contain;
   max-height: 100px;
   margin-right: 10px;
-  transition: transform 250ms;
+  transition: transform 350ms;
 }
 
 .row__poster:hover {
@@ -32,6 +32,6 @@
 }
 
 .row__posterLarge:hover {
-  transform: scale(1.08);
+  transform: scale(1.12);
   opacity: 1;
 }
